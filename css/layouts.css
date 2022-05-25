@@ -28,7 +28,7 @@ footer {
     color: #F2D0C7;
     padding: 1rem;
     font-weight: bold;
-    padding: 2rem
+    padding: 2rem;
     border: #69013B solid 2px;
     border-radius: 0 0 10px 10px;
 
@@ -80,7 +80,7 @@ h3 {
 .sisennys-4rem {
     padding-left: 4rem;
     font-size: 1.4rem;
-    
+    padding-bottom: 1rem;
     font-style: italic;
     
 }
